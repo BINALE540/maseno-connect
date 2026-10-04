@@ -1,16 +1,11 @@
 FROM php:8.2-apache
 
-# Install MySQL extensions
 RUN docker-php-ext-install mysqli pdo pdo_mysql
-
-# Enable Apache mod_rewrite
 RUN a2enmod rewrite
 
-# Copy application files
-COPY . /var/www/html/
+# Allow .htaccess overrides
+RUN sed -i 's/AllowOverride None/AllowOverride All/g' /etc/apache2/apache2.conf
 
-# If your main index.php is inside a subfolder like 'public', uncomment the line below:
-# ENV APACHE_DOCUMENT_ROOT /var/www/html/public
-# RUN sed -ri -e 's!/var/www/html!${APACHE_DOCUMENT_ROOT}!g' /etc/apache2/sites-available/*.conf
+COPY . /var/www/html/
 
 EXPOSE 80
