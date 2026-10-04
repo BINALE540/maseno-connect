@@ -1,0 +1,15 @@
+# Exclude composer dependencies
+/vendor/
+
+# Exclude node dependencies if any
+/node_modules/
+
+# Exclude database dumps and compressed archives
+*.sql
+*.zip
+*.tar.gz
+*.rar
+
+# Exclude OS and editor generated files
+.DS_Store
+Thumbs.db

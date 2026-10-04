@@ -1,0 +1,169 @@
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjExMTgwMw==",
+    "Timestamp": "20260412111803",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 150,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_9",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjExNDM0Nw==",
+    "Timestamp": "20260412114347",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_12",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjExNDQwNw==",
+    "Timestamp": "20260412114407",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_13",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjExNDcyNQ==",
+    "Timestamp": "20260412114725",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_14",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjEzMjUyNQ==",
+    "Timestamp": "20260412132525",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_15",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MjMwMg==",
+    "Timestamp": "20260412152302",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_16",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MjQwMw==",
+    "Timestamp": "20260412152403",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_18",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MzM1MA==",
+    "Timestamp": "20260412153350",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_19",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MzQwMg==",
+    "Timestamp": "20260412153402",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_20",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MzQxNQ==",
+    "Timestamp": "20260412153415",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_21",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MzQyMQ==",
+    "Timestamp": "20260412153421",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_22",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE1MzY1Ng==",
+    "Timestamp": "20260412153656",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_26",
+    "TransactionDesc": "Food Payment"
+}
+{
+    "BusinessShortCode": "174379",
+    "Password": "MTc0Mzc5YmZiMjc5ZjlhYTliZGJjZjE1OGU5N2RkYmI1Y2JlMmEyMDI2MDQxMjE2MTkwNA==",
+    "Timestamp": "20260412161904",
+    "TransactionType": "CustomerPayBillOnline",
+    "Amount": 50,
+    "PartyA": "254757468025",
+    "PartyB": "174379",
+    "PhoneNumber": "254757468025",
+    "CallBackURL": "https:\/\/ryann-pseudoanatomic-melissia.ngrok-free.dev\/maseno-connect\/mpesa\/callback.php",
+    "AccountReference": "ORDER_27",
+    "TransactionDesc": "Food Payment"
+}
