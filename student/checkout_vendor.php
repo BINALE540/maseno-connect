@@ -210,13 +210,24 @@ $stmt->bind_param("iids", $user_id, $vendor_id, $total, $location_json);
         $checkout_id = $response['CheckoutRequestID'];
 
         /* SAVE PAYMENT */
-        $stmt = $conn->prepare("
-        INSERT INTO payments 
-        (order_id, payment_method, payment_status, phone, amount, checkout_request_id)
-        VALUES (?, 'MPESA', 'Pending', ?, ?, ?)
-        ");
-        $stmt->bind_param("isds", $order_id, $phone, $total, $checkout_id);
-        $stmt->execute();
+$payment_method = 'MPESA';
+$payment_status = 'Pending';
+
+$stmt = $conn->prepare("
+    INSERT INTO payments 
+    (order_id, payment_method, payment_status, phone, amount, checkout_request_id)
+    VALUES (?, ?, ?, ?, ?, ?)
+");
+
+// Types: 
+// i = integer ($order_id)
+// s = string  ($payment_method)
+// s = string  ($payment_status)
+// s = string  ($phone)
+// d = double  ($total)
+// s = string  ($checkout_id)
+$stmt->bind_param("isssds", $order_id, $payment_method, $payment_status, $phone, $total, $checkout_id);
+$stmt->execute();
 
         /* UPDATE ORDER */
         $stmt = $conn->prepare("
